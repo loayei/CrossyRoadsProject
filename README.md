@@ -21,8 +21,8 @@ Use the Keyboard arrows to jump all directions.
 Collect coins for extra points.
 After 3 failed attempts the game will terminate.
 
-
-Copyright (C) <2020>  <Loai AlFarran>
+## License
+    Copyright (C) <2020>  <Loai AlFarran>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
